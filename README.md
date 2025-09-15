@@ -34,3 +34,9 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core-android.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core-android)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core-lwjgl.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core-lwjgl)
+
+# [Jpize Core](https://github.com/generaloss/jpize-utils)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-utils.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-utils)
+
+# [Jpize Core](https://github.com/generaloss/jpize-audio)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-audio.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-audio)
