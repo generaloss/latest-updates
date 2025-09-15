@@ -1,3 +1,4 @@
+# Project updates observer
 
 # [FreeType JNI](https://github.com/generaloss/freetype-jni)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni)
@@ -35,8 +36,8 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core-android.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core-android)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core-lwjgl.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core-lwjgl)
 
-# [Jpize Core](https://github.com/generaloss/jpize-utils)
+# [Jpize Utils](https://github.com/generaloss/jpize-utils)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-utils.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-utils)
 
-# [Jpize Core](https://github.com/generaloss/jpize-audio)
+# [Jpize Audio](https://github.com/generaloss/jpize-audio)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-audio.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-audio)
