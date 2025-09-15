@@ -16,7 +16,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni-natives-android.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-android)
 
 ---
-## Basic engine libs
+## Basic libs
 
 ### [Resource Flow](https://github.com/generaloss/resource-flow)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/resource-flow.svg)](https://mvnrepository.com/artifact/io.github.generaloss/resource-flow)
