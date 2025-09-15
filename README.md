@@ -1,15 +1,17 @@
 
 # [FreeType JNI](https://github.com/generaloss/freetype-jni)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni-natives-windows.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-windows)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni-natives-linux.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-linux)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni-natives-android.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-android)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-windows)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-linux)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-android)
 
 # [STB-Image JNI](https://github.com/generaloss/stb-image-jni)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni-natives-windows.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-windows)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni-natives-linux.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-linux)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni-natives-android.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-android)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-windows)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-linux)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-android)
+
+---
 
 # [Resource Flow](https://github.com/generaloss/resource-flow)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/resource-flow.svg)](https://mvnrepository.com/artifact/io.github.generaloss/resource-flow)
@@ -25,3 +27,10 @@
 
 # [Chrono Kit](https://github.com/generaloss/chrono-kit)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/chrono-kit.svg)](https://mvnrepository.com/artifact/io.github.generaloss/chrono-kit)
+
+---
+
+# [Jpize Core](https://github.com/generaloss/jpize-core)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core-android)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core-lwjgl)
