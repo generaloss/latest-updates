@@ -1,5 +1,8 @@
 # Project updates observer
 
+---
+## JNI libs
+
 ### [FreeType JNI](https://github.com/generaloss/freetype-jni)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni-natives-windows.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-windows)
@@ -13,6 +16,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/stb-image-jni-natives-android.svg)](https://mvnrepository.com/artifact/io.github.generaloss/stb-image-jni-natives-android)
 
 ---
+## Basic engine libs
 
 ### [Resource Flow](https://github.com/generaloss/resource-flow)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/resource-flow.svg)](https://mvnrepository.com/artifact/io.github.generaloss/resource-flow)
@@ -30,6 +34,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/chrono-kit.svg)](https://mvnrepository.com/artifact/io.github.generaloss/chrono-kit)
 
 ---
+## Engine
 
 ### [Jpize Core](https://github.com/generaloss/jpize-core)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/jpize-core.svg)](https://mvnrepository.com/artifact/io.github.generaloss/jpize-core)
