@@ -1,4 +1,4 @@
-# Project updates observer
+# Project Updates observer
 
 ---
 ## JNI libs
