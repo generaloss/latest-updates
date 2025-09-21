@@ -4,7 +4,7 @@
 ## JNI libs
 
 ### [FreeType JNI](https://github.com/generaloss/freetype-jni)
-#### freetype-jni
+* #### freetype-jni
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni)
 #### freetype-jni-natives-windows
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.generaloss/freetype-jni-natives-windows.svg)](https://mvnrepository.com/artifact/io.github.generaloss/freetype-jni-natives-windows)
